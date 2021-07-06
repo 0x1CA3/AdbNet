@@ -36,7 +36,9 @@ specific port yourself, but it might take some time.
 Now AdbNet will now try to connect to the vulnerable android device.
 If it fails to connect, try another IP.
 
+If you manage to connect to a device, now you can check if you are really connected by using the 'devices' command.
 
+< Warning! > You can only be connected to one device! at a time, to kill the sessionsm use the 'killall' command! < Warning! >
 ```
 
 # Installation/How To Run
