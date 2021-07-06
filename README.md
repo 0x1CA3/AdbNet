@@ -4,7 +4,7 @@ A Framework that allows you to search for vulnerable android devices across the 
 # Features
 AdbNet is a framework that makes your life easier when trying to hack android devices. It has tons of features.
 
-<Warning!> You can only be connected to one device at a time! To kill the sessions use the 'killall' command! <Warning!>
+WARNING: You can only be connected to one device at a time! To kill the sessions use the 'killall' command!
 ```
 Features:
   - Post-Exploitation modules to control and tinker with the device you are connected to.
