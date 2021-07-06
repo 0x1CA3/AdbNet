@@ -11,8 +11,8 @@ try:
 except:
     print("[-] Error! Make sure you install the required modules!")
 
-shodan_key = "" # Add your Shodan API Key here
 
+shodan_key = "" # Add your Shodan API Key here
 api_id = "" # Add your Censys API ID here
 api_secret = "" # Add your Censys API Secret Key here
 
