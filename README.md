@@ -25,12 +25,16 @@ Create an account on shodan.io and go to your account to get your free api key, 
 # Simple Tutorial
 This tutorial is for people that might be confused on how to use AdbNet. This tutorial will demonstrate how to connect to a vulnerable device and run some post-exploitation modules on it, or just open a regular shell.
 ```
-First, run the 'dump shodan' command to dump the IP addresses of the vulnerable devices.
+First, run the 'dump shodan' or 'dump censy' (dump shodan is recommended) command to 
+dump the IP addresses of the vulnerable devices.
 
 Then, after you find an IP-address you want to try, run the 'connect' command and you will be prompted to enter
 the target IP address, once you enter the target ip address, you will be prompter to enter the port. For the port,
 you can try entering '5555' or '4444' since those are the most common ports. If you want, you can try finding the
 specific port yourself, but it might take some time.
+
+Now AdbNet will now try to connect to the vulnerable android device.
+If it fails to connect, try another IP.
 
 
 ```
