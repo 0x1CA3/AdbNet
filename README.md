@@ -3,6 +3,7 @@ A Framework that allows you to search for vulnerable android devices across the 
 
 # Features
 AdbNet is a framework that makes your life easier when trying to hack android devices. It has tons of features.
+
 ```
 Features:
   - Post-Exploitation modules to control and tinker with the device you are connected to.
@@ -10,9 +11,8 @@ Features:
   - Options for managing how many devices you have connected.
   - Options for checking whether the devices you are connected to are online or offline.
   - IP-Lookup for retrieving information on a certain IP.
-
+  - Options to dump the IP Addresses of the vulnerable android devices. [This makes your life easier so you dont have to find it yourself]
 ```
-
 
 # Getting the required API keys
 Create an account on censys.io and then go to your account page and get your free api_id and api_secret key and open 'adbnet.py' and edit in your api id and api key here: 
