@@ -32,6 +32,7 @@ TIP: For people that are new to this, if you are having issues install a certain
 ```
 # Screenshots
 ![image](https://user-images.githubusercontent.com/86132648/124667060-e2f5c280-de7c-11eb-8f69-2443aa7a7bd3.png)
+![image](https://user-images.githubusercontent.com/86132648/124667104-f30da200-de7c-11eb-9da3-098fa211a910.png)
 
 # Credits
   - @0x1CA3 on Github
