@@ -30,5 +30,8 @@ python3 adbnet.py or python adbnet.py or py adbnet.py
 
 TIP: For people that are new to this, if you are having issues install a certain python module, just do this: pip3 install <modulename>
 ```
+# Screenshots
+![image](https://user-images.githubusercontent.com/86132648/124667060-e2f5c280-de7c-11eb-8f69-2443aa7a7bd3.png)
+
 # Credits
   - @0x1CA3 on Github
