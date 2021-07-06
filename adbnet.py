@@ -9,7 +9,7 @@ try:
     from colorama import Fore
     from datetime import datetime
 except:
-    print("[-] Error! Make you install the required modules!")
+    print("[-] Error! Make sure you install the required modules!")
 
 shodan_key = "" # Add your Shodan API Key here
 
