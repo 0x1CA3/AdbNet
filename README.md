@@ -22,8 +22,13 @@ Create an account on censys.io and then go to your account page and get your fre
 Create an account on shodan.io and go to your account to get your free api key, once you have it copied, open 'adbnet.py' and edit in your api key here:
 ![image](https://user-images.githubusercontent.com/86132648/124665543-d7090100-de7a-11eb-9ef6-e400227a1359.png)
 
+# Simple Tutorial
+This tutorial is for people that might be confused on how to use AdbNet. This tutorial will demonstrate how to connect to a vulnerable device and run some post-exploitation modules on it, or just open a regular shell.
+
 # Installation/How To Run
 ```
+sudo apt install pq
+sudo apt install adb
 pip3 install colorama
 pip3 install requests
 python3 adbnet.py or python adbnet.py or py adbnet.py
