@@ -38,7 +38,7 @@ If it fails to connect, try another IP.
 
 If you manage to connect to a device, now you can check if you are really connected by using the 'devices' command.
 
-< Warning! > You can only be connected to one device! at a time, to kill the sessionsm use the 'killall' command! < Warning! >
+< Warning! > You can only be connected to one device at a time! To kill the sessions use the 'killall' command! < Warning! >
 ```
 
 # Installation/How To Run
