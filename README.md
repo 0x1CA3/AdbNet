@@ -39,6 +39,13 @@ If it fails to connect, try another IP.
 If you manage to connect to a device, now you can check if you are really connected by using the 'devices' command.
 
 < Warning! > You can only be connected to one device at a time! To kill the sessions use the 'killall' command! < Warning! >
+
+To open a shell and execute commands on the device, use the 'terminal' command.
+
+To run post-exploitation modules, run the 'post' command for the post-exploitation menu to load. Then, you
+can run any module you like.
+
+REMEMBER: IF YOU WANT TO CONNECT TO A DIFFERENT DEVICE, RUN THE 'killall' COMMAND, AND REPEAT THE PROCESS AGAIN.
 ```
 
 # Installation/How To Run
