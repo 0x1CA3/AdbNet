@@ -1,10 +1,21 @@
-# AdbNet ![image](https://user-images.githubusercontent.com/86132648/124664774-ec316000-de79-11eb-8fbe-254bf466d2ba.png)
-A Framework that allows you to search for vulnerable android devices across the world and exploit them.
+<h1 align="center">
+	<img src="https://image.flaticon.com/icons/png/512/160/160138.png" width="150px"><br>
+    adb - An Exploitation-Framework for android devices.
+</h1>
+<p align="center">
+	A Framework that allows you to search for vulnerable android devices across the world and exploit them.
+</p>
+
+<p align="center">
+	<a href="https://deno.land" target="_blank">
+    	<img src="https://img.shields.io/badge/Version-1.0.0-7DCDE3?style=for-the-badge" alt="Version">
+     </a>
+	<a href="https://deno.land" target="_blank">
+    	<img src="https://img.shields.io/badge/Deno-1.0.0+-7DCDE3?style=for-the-badge" alt="Node">
+     </a>
+</p>
 
 # Features
-AdbNet is a framework that makes your life easier when trying to hack android devices. It has tons of features.
-
-WARNING: You can only be connected to one device at a time! To kill the sessions use the 'killall' command!
 ```
 Features:
   - Post-Exploitation modules to control and tinker with the device you are connected to.
@@ -24,7 +35,6 @@ Create an account on shodan.io and go to your account to get your free api key, 
 ![image](https://user-images.githubusercontent.com/86132648/124665543-d7090100-de7a-11eb-9ef6-e400227a1359.png)
 
 # Simple Tutorial
-This tutorial is for people that might be confused on how to use AdbNet. This tutorial will demonstrate how to connect to a vulnerable device and run some post-exploitation modules on it, or just open a regular shell.
 ```
 First, run the 'dump shodan' or 'dump censy' (dump shodan is recommended) command to 
 dump the IP addresses of the vulnerable devices.
