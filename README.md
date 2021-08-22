@@ -9,10 +9,6 @@
 <p align="center">
 	<a href="https://deno.land" target="_blank">
     	<img src="https://img.shields.io/badge/Version-1.0.0-7DCDE3?style=for-the-badge" alt="Version">
-     </a>
-	<a href="https://deno.land" target="_blank">
-    	<img src="https://img.shields.io/badge/Deno-1.0.0+-7DCDE3?style=for-the-badge" alt="Node">
-     </a>
 </p>
 
 # Features
