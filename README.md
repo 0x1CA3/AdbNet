@@ -1,6 +1,6 @@
 <h1 align="center">
 	<img src="https://image.flaticon.com/icons/png/512/160/160138.png" width="150px"><br>
-    adb - An Exploitation-Tool for android devices.
+    adb - An exploitation tool for android devices.
 </h1>
 <p align="center">
 	A tool that allows you to search for vulnerable android devices across the world and exploit them.
